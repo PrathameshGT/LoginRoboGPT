@@ -1,0 +1,447 @@
+.maskGroupIcon {
+  height: 124px;
+  width: 124px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.maskGroupWrapper {
+  margin-top: -233px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 910px 0 var(--padding-xl);
+}
+.groupIcon {
+  height: 24px;
+  width: 169px;
+  position: relative;
+  z-index: 3;
+}
+.prentFrme {
+  width: 747px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.koboIcon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+.frmBttn {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-41xl);
+}
+.component51 {
+  align-self: stretch;
+  height: 53px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.koboComp {
+  width: 238px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.btnPair {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 28px;
+}
+.heyThereTrailblazer,
+.welcomeToRobogpt {
+  margin-block-start: 0;
+  margin-block-end: 8px;
+}
+.whereEveryMessage {
+  margin: 0;
+}
+.heyThereTrailblazerContainer {
+  width: 472px;
+  position: relative;
+  line-height: 121.36%;
+  font-weight: 600;
+  display: inline-block;
+}
+.grpCntnr {
+  width: 748px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.buttonIcon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hiiRohan,
+.startChatting {
+  margin: 0;
+}
+.hiiRohanStartContainer {
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.ctrlSets {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lgi) var(--padding-57xl) 15px;
+  position: relative;
+}
+.buttonIcon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.whatsAroundYou {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--subtitle-1);
+  color: var(--dark-text1);
+  text-align: left;
+  z-index: 1;
+}
+.ctrlSets1,
+.ctrlSetsParent,
+.hiMsg {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ctrlSets1 {
+  cursor: pointer;
+  border: 0;
+  padding: 29px var(--padding-57xl) 33px;
+  background-color: transparent;
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.ctrlSetsParent,
+.hiMsg {
+  max-width: 100%;
+}
+.ctrlSetsParent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-lgi);
+}
+.hiMsg {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.icon,
+.label {
+  position: relative;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.label {
+  flex: 1;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.box,
+.micContIcon {
+  border-radius: var(--br-base);
+}
+.box {
+  flex: 1;
+  background-color: var(--dark-gray3);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) 12px var(--padding-base) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  min-width: 451px;
+  max-width: 100%;
+}
+.micContIcon {
+  height: 56px;
+  width: 56px;
+  position: relative;
+}
+.frameChild,
+.searchBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.searchBar {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.frameChild {
+  border-radius: 50%;
+  background-color: #9a9a9a;
+  z-index: 1;
+}
+.microphoneIcon {
+  position: absolute;
+  top: 6px;
+  left: 5px;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  z-index: 2;
+}
+.ellipseParent {
+  position: absolute;
+  top: 8px;
+  left: 639px;
+  width: 40px;
+  height: 40px;
+}
+.whatsAroundYouMsg {
+  align-self: stretch;
+  height: 56px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--subtitle-1-size);
+  color: var(--dark-gray1);
+}
+.chatFrm,
+.hTMsg {
+  align-self: stretch;
+}
+.chatFrm {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px;
+  max-width: 100%;
+  text-align: left;
+}
+.hTMsg {
+  align-items: flex-end;
+  gap: 78px;
+}
+.hTMsg,
+.microphoneV,
+.prentFrmeParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.prentFrmeParent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 220px;
+}
+.microphoneV {
+  width: 774px;
+  align-items: flex-start;
+  padding: var(--padding-57xl) 0 0;
+  box-sizing: border-box;
+  min-width: 774px;
+}
+.iphone11ProMax2Child,
+.valpha {
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.valpha {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 0 1792px var(--padding-9xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--dark-text1);
+  font-family: var(--subtitle-1);
+}
+.iphone11ProMax2Child {
+  margin-right: -2483.5px;
+  width: 77.5px;
+  height: 81.5px;
+  position: relative;
+}
+.iphone11ProMax2,
+.iphone11ProMax2Parent {
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-start;
+}
+.iphone11ProMax2 {
+  height: 1093px;
+  flex: 1;
+  box-shadow: -5px -5px 250px rgba(255, 255, 255, 0.02) inset;
+  backdrop-filter: blur(42px);
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 478px var(--padding-2xs) 0;
+  gap: 109px;
+  max-width: 100%;
+}
+.iphone11ProMax2Parent {
+  width: 100%;
+  height: 1079px;
+  position: relative;
+  background-color: #262626;
+  flex-direction: row;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1625px) {
+  .microphoneV {
+    flex: 1;
+    min-width: 100%;
+  }
+  .valpha {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .iphone11ProMax2,
+  .iphone11ProMax2Parent {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .maskGroupWrapper {
+    padding-right: 455px;
+    box-sizing: border-box;
+  }
+  .box {
+    min-width: 100%;
+  }
+  .microphoneV {
+    padding-top: var(--padding-30xl);
+    box-sizing: border-box;
+  }
+  .valpha {
+    padding-bottom: 757px;
+    box-sizing: border-box;
+  }
+  .iphone11ProMax2 {
+    gap: 54px;
+    padding-right: 239px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .maskGroupWrapper {
+    padding-right: 227px;
+    box-sizing: border-box;
+  }
+  .searchBar {
+    flex-wrap: wrap;
+  }
+  .whatsAroundYouMsg {
+    height: auto;
+    min-height: 56;
+  }
+  .hTMsg {
+    gap: 39px;
+  }
+  .prentFrmeParent {
+    gap: 110px;
+  }
+  .microphoneV {
+    padding-top: 32px;
+    box-sizing: border-box;
+  }
+  .valpha {
+    padding-bottom: 492px;
+    box-sizing: border-box;
+  }
+  .iphone11ProMax2 {
+    gap: 27px;
+    padding-right: 119px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ctrlSets,
+  .ctrlSets1,
+  .maskGroupWrapper {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .ctrlSets,
+  .ctrlSets1 {
+    padding-left: var(--padding-xl);
+  }
+  .chatFrm {
+    gap: 15px;
+  }
+  .hTMsg {
+    gap: var(--gap-lgi);
+  }
+  .prentFrmeParent {
+    gap: 55px;
+  }
+}

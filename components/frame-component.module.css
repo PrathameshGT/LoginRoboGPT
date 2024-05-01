@@ -1,0 +1,649 @@
+.component51,
+.frameChild {
+  position: relative;
+  max-width: 100%;
+}
+.frameChild {
+  width: 343px;
+  height: 1078px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--dark-gray3);
+  display: none;
+  z-index: 0;
+}
+.component51 {
+  align-self: stretch;
+  height: 39px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 2;
+}
+.v02alpha {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 68px;
+  z-index: 1;
+}
+.computerSupport {
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+}
+.button,
+.computerSupport,
+.profile {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile {
+  flex: 1;
+  flex-direction: column;
+}
+.button {
+  width: 206px;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+.welcomeMessageChild {
+  height: 79px;
+  width: 79px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  z-index: 1;
+}
+.welcomeMessage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl);
+}
+.welcomeRohanRoy {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.camera,
+.welcomeMessageParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.welcomeMessageParent {
+  flex-direction: column;
+  gap: var(--gap-2xs);
+}
+.camera {
+  flex-direction: row;
+  padding: 0 var(--padding-27xl) 0 var(--padding-25xl);
+  font-size: var(--subtitle-1-size);
+}
+.frameItem {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  right: 157px;
+  bottom: 423px;
+  z-index: 2;
+}
+.skillCreationChild {
+  height: 40px;
+  width: 147px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-dimgray);
+  display: none;
+}
+.chatRoomIcon {
+  height: 17px;
+  width: 17px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.chat {
+  width: 78px;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--subtitle-1);
+  color: var(--dark-text1);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.skillCreation {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-lgi);
+  background-color: var(--color-dimgray);
+  width: 147px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+  z-index: 1;
+}
+.skillCreation:hover {
+  background-color: var(--color-gray-100);
+}
+.profileIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  object-fit: contain;
+}
+.label {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 92px;
+}
+.searchBar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.statusApprovedIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button1 {
+  align-self: stretch;
+  border-radius: var(--br-base);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+  gap: var(--gap-6xs);
+  z-index: 1;
+}
+.securityShieldIcon {
+  height: 22px;
+  width: 22px;
+  position: relative;
+  object-fit: cover;
+  min-height: 22px;
+  z-index: 1;
+}
+.security1 {
+  margin: 0;
+}
+.security {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+  z-index: 3;
+}
+.securityShieldParent {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.configureRobot,
+.kobo,
+.securityShieldParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kobo {
+  width: 209px;
+  flex-direction: row;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  text-align: left;
+}
+.configureRobot {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-2xs);
+  gap: var(--gap-smi);
+}
+.computerSupportIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+  z-index: 3;
+}
+.configureRobot2 {
+  margin: 0;
+}
+.configureRobot1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 114px;
+  cursor: pointer;
+  z-index: 3;
+}
+.computerSupportParent,
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.computerSupportParent {
+  flex: 1;
+  gap: var(--gap-smi);
+}
+.frameWrapper {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.criticalThinkingIcon {
+  height: 21px;
+  width: 21px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.skillCreation2 {
+  margin: 0;
+}
+.skillCreation1 {
+  position: relative;
+  font-weight: 500;
+  z-index: 3;
+}
+.box,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-lg);
+}
+.cameraIcon {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  object-fit: contain;
+  z-index: 3;
+}
+.cameraView1 {
+  margin: 0;
+}
+.cameraView {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  cursor: pointer;
+  z-index: 3;
+}
+.cameraViewWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.cameraParent {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  text-align: center;
+}
+.cameraParent,
+.newDesignElements,
+.newDesignElementsWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.newDesignElements {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+}
+.newDesignElementsWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-lg);
+  text-align: left;
+}
+.speed {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 1;
+}
+.cancelIcon {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl);
+}
+.frameInner {
+  height: 9px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  z-index: 1;
+}
+.rectangleWrapper {
+  width: 220px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xl) var(--padding-5xs);
+  box-sizing: border-box;
+}
+.div {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 23px;
+  z-index: 1;
+}
+.profileBtn {
+  width: 217px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.deleteIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label1 {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.logoutBtn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.statusApprovedIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button2,
+.buttonInst {
+  display: flex;
+  justify-content: flex-start;
+}
+.button2 {
+  align-self: stretch;
+  filter: var(--shadow1);
+  border-radius: var(--br-9xs);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+  gap: var(--gap-6xs);
+  z-index: 1;
+  font-size: var(--button-size);
+}
+.buttonInst {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+}
+.symbolsLibrary {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+  font-size: var(--font-size-lg);
+}
+.brightnessFullIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.label2 {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 90px;
+}
+.micIcon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.statusApprovedIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button3 {
+  align-self: stretch;
+  filter: var(--shadow1);
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+  gap: var(--gap-6xs);
+  z-index: 1;
+}
+.logoutIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.label3 {
+  position: relative;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 62px;
+}
+.koboInst {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.statusApprovedIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.button4,
+.rectShp {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button4 {
+  flex: 1;
+  filter: var(--shadow1);
+  border-radius: var(--br-9xs);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+  gap: var(--gap-7xs);
+  z-index: 1;
+}
+.rectShp {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.deleteButton,
+.frameGroup,
+.saveIcon {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frameGroup {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+  font-size: var(--button-size);
+}
+.deleteButton,
+.saveIcon {
+  align-items: flex-start;
+}
+.saveIcon {
+  align-self: stretch;
+  gap: var(--gap-3xl);
+}
+.deleteButton {
+  margin: 0;
+  width: 242px;
+  padding: 0 0 var(--padding-74xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--dark-text1);
+  font-family: var(--subtitle-1);
+}
+.groupIcon {
+  height: 24px;
+  width: 169px;
+  position: relative;
+  z-index: 3;
+}
+.btnGrp,
+.rectangleParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base);
+}
+.rectangleParent {
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--dark-gray3);
+  flex-direction: column;
+  padding: var(--padding-42xl) var(--padding-24xl) var(--padding-73xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-27xl);
+  min-width: 343px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--button-size);
+  color: var(--dark-text1);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1625px) {
+  .rectangleParent {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .rectangleParent {
+    padding-top: var(--padding-21xl);
+    padding-bottom: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .deleteButton,
+  .rectangleParent {
+    padding-bottom: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+  .rectangleParent {
+    padding-top: var(--padding-7xl);
+    padding-bottom: var(--padding-20xl);
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .camera {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .computerSupportIcon {
+    width: 100%;
+  }
+  .computerSupportParent {
+    flex-wrap: wrap;
+  }
+  .rectangleParent {
+    gap: var(--gap-4xl);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
